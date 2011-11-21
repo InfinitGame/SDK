@@ -1,0 +1,1 @@
+See the [Documentation](https://github.com/InfinitGame/SDK/blob/master/Documentation.pdf?raw=true) for more informations.
